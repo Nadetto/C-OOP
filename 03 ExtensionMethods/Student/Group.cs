@@ -1,11 +1,7 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace Student
+﻿namespace Student
 {
+    using System;
+
     public class Group : IHasGroupNumber
     {
         public Group(int groupNumber, string departmentName)

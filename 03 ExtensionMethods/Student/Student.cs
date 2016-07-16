@@ -1,11 +1,9 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace Student
+﻿namespace Student
 {
+    using System;
+    using System.Collections.Generic;
+    using System.Text;
+
     class Student : IHasGroupNumber
     {
         //FirstName, LastName, FN, Tel, Email, Marks (a List), GroupNumber.

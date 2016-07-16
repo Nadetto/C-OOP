@@ -1,11 +1,9 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace DivisibleBy7And3
+﻿namespace DivisibleBy7And3
 {
+    using System;
+    using System.Collections.Generic;
+    using System.Linq;
+
     class StartUp
     {
         static void Main()
