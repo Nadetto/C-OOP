@@ -18,6 +18,10 @@ namespace HunamHierarcy
 
         public decimal WorkHourPerDay { get; set; }
 
-        public void MoneyPerHour();
+        // TODO:
+        public void MoneyPerHour()
+        {
+            throw new NotImplementedException();
+        }
     }
 }
